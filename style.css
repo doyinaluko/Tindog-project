@@ -1,9 +1,9 @@
 body{
-    font-family: 'Montserrat';
+    font-family: "Montserrat";
 }
 
 h1{
-    font-family: 'Montserrat-black';
+    font-family: "Montserrat-black";
     font-size: 3.5rem;
     line-height: 1.5;
 }
@@ -23,7 +23,7 @@ h1{
 }
 
 .navbar-brand {
-    font-family: 'Ubuntu';
+    font-family: "Ubuntu";
     font-size: 2.5rem;
     font-weight: bold;
 }
@@ -34,7 +34,7 @@ h1{
 
 .nav-link{
     font-size: 1.2rem;
-    font-family: 'Montserrat-light', sans-serif;
+    font-family: "Montserrat-light";
 }
 
 /* Download buttons */
