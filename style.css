@@ -63,3 +63,17 @@ p{
     margin: 3% 0 0 0;
 
 }
+
+.bullseye{
+    color: #EF8172;
+    margin: 3% 0 0 0;
+}
+
+.lg-heart{
+    color: #EF8172;
+    margin: 3% 0 0 0;
+}
+
+.fa-solid:hover {
+    color: #FF4C68;
+}
