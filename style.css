@@ -58,26 +58,20 @@ p{
     color: #8F8F8F;
 }
 
-.check-in-circle{
+.icon{
     color: #EF8172;
-    margin: 3% 0 0 0;
-
+    margin-bottom: 1rem;
 }
 
-.bullseye{
-    color: #EF8172;
-    margin: 3% 0 0 0;
-}
-
-.lg-heart{
-    color: #EF8172;
-    margin: 3% 0 0 0;
-}
-
-.fa-solid:hover {
+.icon:hover {
     color: #FF4C68;
 }
 
-.habeebti{
-    margin-top: 5px;
+#features{
+    margin: 5% 7%;
+}
+
+.feature-box{
+    text-align: center;
+    padding: 5%;
 }
