@@ -8,6 +8,17 @@ h1{
     line-height: 1.5;
 }
 
+h2{
+    font-family: "Montserrat-Bold";
+    font-size: 3rem;
+    line-height: 1.5;
+}
+h3{
+    font-size: 1.5rem;
+    font-family: "Montserrat-bold";
+}
+
+
 #title{
     background-color: #FF4C68;
     color: #FFF;
@@ -49,10 +60,6 @@ h1{
 }
 
 /* The id section */
-h3{
-    font-size: 1.5rem;
-    font-family: "Montserrat-bold";
-}
 
 p{
     color: #8F8F8F;
@@ -74,4 +81,34 @@ p{
 .feature-box{
     text-align: center;
     padding: 5%;
+}
+
+/* Testimonials section */
+#testimonials{
+    
+    text-align: center;
+    background-color: #EF8172;
+    color: #FFF;
+}
+
+.testimonial-img{
+    width: 10%;
+    border-radius: 100%;
+    margin: 20px;
+}
+/* 
+Press section */
+#press{
+    background-color: #EF8172;
+    text-align: center;
+    padding-bottom: 3%;
+}
+
+.box-selection{
+    width: 15%;
+    margin: 20px 20px 50px;
+}
+
+.carousel-item{
+    padding: 7% 15%;
 }
