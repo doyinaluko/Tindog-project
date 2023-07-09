@@ -112,3 +112,8 @@ Press section */
 .carousel-item{
     padding: 7% 15%;
 }
+
+/* Pricing section */
+#pricing{
+    padding: 100px;
+}
