@@ -24,16 +24,22 @@ p{
     line-height: 1.5;
 }
 
-/* Title section */
-#title{
-    background-color: #FF4C68;
-    color: #FFF;
-    text-align: left;
-}
 
+/* Containers */
 .container-fluid{
     padding: 7% 15%;
 }
+
+/* Sections */
+.colored-section{
+    background-color: #FF4C68;
+    color: #FFF;
+}
+
+.white-sectionn{
+    background-color: #FFF;
+}
+
 
 /* Navigation bar */
 .navbar {
@@ -60,8 +66,12 @@ p{
     margin: 5% 3% 5% 0;
 }
 
-/* Title image */
+/* Title section */
 
+#title .container-fluid{
+    padding: 3% 15% 7%;
+    text-align: left;
+}
 
 .iphone-img{
     width: 50%;
@@ -146,10 +156,6 @@ Press section */
 
 
 /* Call to action */
-#cta{
-    background-color: #FF4C68;
-    color: #FFF;
-}
 .cta-heading{
     font-family: "Monserrat-Black";
     font-size: 3.5rem;
@@ -157,7 +163,7 @@ Press section */
 }
 
 /* Footer section  */
-new pdate.social-selector{
+social-selector{
     margin: 20px 10px;
 }
 
