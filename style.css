@@ -82,8 +82,8 @@ p{
 .iphone-img{
     width: 50%;
     transform: rotate(25deg);
-    position: ;
-    z-index: ;
+    position: absolute;
+    right: 30%;
 }
 
 /* The id section */
@@ -105,7 +105,7 @@ Features section */
 
 #features{
     background-color: #FFF;
-    position: ;
+    position: relative;
     z-index: ;
 }
 
