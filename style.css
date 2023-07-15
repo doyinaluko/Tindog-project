@@ -81,9 +81,10 @@ p{
 
 .shy-dog{
     width: 50%;
-    transform: ;
+    transform: rotate(25deg);
     position: ;
     right: ;
+    border-radius: 100%;
 }
 
 /* The id section */
